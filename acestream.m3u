@@ -81,5 +81,3 @@ http://192.168.86.3:2000/pid/0fdcd632dc776bc44ab2f474a6d079820d80132f/stream.mp4
 http://192.168.86.3:2000/pid/864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2/stream.mp4
 #EXTINF:-1 tvg-id="#VAMOS" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",#VAMOS
 http://192.168.86.3:2000/pid/e378fc79083c3a72b5b0ca59d7770d921e168888/stream.mp4
-#EXTINF:-1 tvg-id="Pruebas M.DEPORTES" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Pruebas M.DEPORTES
-http://192.168.86.3:2000/pid/e378fc79083c3a72b5b0ca59d7770d921e168888/stream.mp4
