@@ -9,3 +9,5 @@ http://127.0.0.1:2000/pid/b402c07f2e8bfe253815e08df0b7e0a6b0fad8e3/stream.mp4
 http://127.0.0.1:2000/pid/0746c5511701c3db76c433f684c44549debad44f/stream.mp4
 #EXTINF:-1 tvg-id="TELEDEPORTE 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",TELEDEPORTE 1080
 http://127.0.0.1:2000/pid/75bb9c74eecbd508a30b3f308f62938180062c6d/stream.mp4
+#EXTINF:-1 tvg-id="M. Deportes 1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",M. Deportes 1 1080
+http://127.0.0.1:2000/pid/c47f756750190e4b2a9eefe8afdac48a2203b8d6/stream.mp4
