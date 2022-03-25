@@ -1,3 +1,4 @@
+#EXTM3U Acestream
 http://127.0.0.1:2000/pid/4a03e14ec4e40afce24781e7c54ba9e3575dfe0a/stream.mp4
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",SPORTV 2
 http://127.0.0.1:2000/pid/b402a5fc3d93860c7f4a9c46463ff5469b6436f6/stream.mp4
