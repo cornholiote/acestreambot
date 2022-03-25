@@ -5,3 +5,7 @@ http://192.168.86.3:2000/pid/2dbea1288c3bad4a8faab395249fb5e5edfde4b6/stream.mp4
 http://127.0.0.1:2000/pid/abfad7e2865448702e4abd46bbcae01c04daab5f/stream.mp4
 #EXTINF:-1 tvg-id="DAZN 2 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",DAZN 2 1080
 http://127.0.0.1:2000/pid/b402c07f2e8bfe253815e08df0b7e0a6b0fad8e3/stream.mp4
+#EXTINF:-1 tvg-id="CUATRO 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",CUATRO 1080
+http://127.0.0.1:2000/pid/0746c5511701c3db76c433f684c44549debad44f/stream.mp4
+#EXTINF:-1 tvg-id="TELEDEPORTE 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",TELEDEPORTE 1080
+http://127.0.0.1:2000/pid/75bb9c74eecbd508a30b3f308f62938180062c6d/stream.mp4
