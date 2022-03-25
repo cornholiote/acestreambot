@@ -1,9 +1,3 @@
 #EXTM3U Acestream
 #EXTINF:-1 tvg-id="F1 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",F1 1080
 http://127.0.0.1:2000/pid/9ddf64cab26efc80aef43eaf15caa01943bd534a/stream.mp4
-#EXTINF:-1 tvg-id="CUATRO 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",CUATRO 1080
-http://127.0.0.1:2000/pid/0746c5511701c3db76c433f684c44549debad44f/stream.mp4
-#EXTINF:-1 tvg-id="TELEDEPORTE 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",TELEDEPORTE 1080
-http://127.0.0.1:2000/pid/75bb9c74eecbd508a30b3f308f62938180062c6d/stream.mp4
-#EXTINF:-1 tvg-id="VAMOS 1080 @acestream_spanish" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",VAMOS 1080 @acestream_spanish
-http://127.0.0.1:2000/pid/28c4a6a2c7e5edc768db06bcfd9e197e8189cdae/stream.mp4
