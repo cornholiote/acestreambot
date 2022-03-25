@@ -1,5 +1,1 @@
-#EXTM3U Acestream
-#EXTINF:-1 tvg-id="M. LaLiga 1080 MultiAudio" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",M. LaLiga 1080 MultiAudio 
-http://192.168.86.3:2000/pid/2dbea1288c3bad4a8faab395249fb5e5edfde4b6/stream.mp4
-#EXTINF:-1 tvg-id="#Vamos 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",#Vamos 720 
-http://192.168.86.3:2000/pid/0fdcd632dc776bc44ab2f474a6d079820d80132f/stream.mp4
+http://127.0.0.1:2000/ace/getstream?id=28c4a6a2c7e5edc768db06bcfd9e197e8189cdae
