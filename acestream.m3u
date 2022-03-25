@@ -15,3 +15,11 @@ http://127.0.0.1:2000/pid/4a03e14ec4e40afce24781e7c54ba9e3575dfe0a/stream.mp4
 http://127.0.0.1:2000/pid/b402a5fc3d93860c7f4a9c46463ff5469b6436f6/stream.mp4
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",SPORTV 3
 http://127.0.0.1:2000/pid/4d78fadc6701008fb528202d9671e1d0f2acd486/stream.mp4
+#EXTINF:-1 tvg-id="canal 0 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",canal 0 1080
+http://127.0.0.1:2000/pid/864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2/stream.mp4
+#EXTINF:-1 tvg-id="M. golf 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",M. golf 1080
+http://127.0.0.1:2000/pid/4f945b0ba4206fa2676b61e9eaa465ac3dcc8122/stream.mp4
+#EXTINF:-1 tvg-id="Vamos 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Vamos 1080
+http://127.0.0.1:2000/pid/2dbea1288c3bad4a8faab395249fb5e5edfde4b6/stream.mp4
+#EXTINF:-1 tvg-id="Vamos sd" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Vamos sd
+http://127.0.0.1:2000/pid/0fdcd632dc776bc44ab2f474a6d079820d80132f/stream.mp4
