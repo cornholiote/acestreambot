@@ -11,9 +11,3 @@ http://127.0.0.1:2000/pid/e378fc79083c3a72b5b0ca59d7770d921e168888/stream.mp4
 http://127.0.0.1:2000/pid/0eb963333f8561e07fc2bd099deacccbdf317b8d/stream.mp4
 #EXTINF:-1 tvg-id="dazn F1 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",dazn F1 SD
 http://127.0.0.1:2000/pid/4a03e14ec4e40afce24781e7c54ba9e3575dfe0a/stream.mp4
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",SPORTV 2
-http://127.0.0.1/pid/b402a5fc3d93860c7f4a9c46463ff5469b6436f6/stream.mp4
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",SPORTV 3
-http://127.0.0.1/pid/4d78fadc6701008fb528202d9671e1d0f2acd486/stream.mp4
-#EXTINF:-1 tvg-id="M. Deportes 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",M. Deportes 2
-http://127.0.0.1/ace/getstream?id=85bd65161dfd8c4033194da3c978c0450c9111db
