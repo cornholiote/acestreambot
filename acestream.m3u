@@ -19,3 +19,5 @@ http://127.0.0.1:2000/pid/75bb9c74eecbd508a30b3f308f62938180062c6d/stream.mp4
 http://127.0.0.1:2000/pid/b402a5fc3d93860c7f4a9c46463ff5469b6436f6/stream.mp4
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",SPORTV 3
 http://127.0.0.1:2000/pid/4d78fadc6701008fb528202d9671e1d0f2acd486/stream.mp4
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",DAZN 1 HD
+http://127.0.0.1:2000/pid/e378fc79083c3a72b5b0ca59d7770d921e168888/stream.mp4
