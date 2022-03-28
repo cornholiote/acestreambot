@@ -39,3 +39,5 @@ http://127.0.0.1:2000/pid/2b16391b15b98bd06576cfb7f7be400d3f78f2d1/stream.mp4
 http://127.0.0.1:2000/pid/39592ff924c626fb4a6e80fb67eb24a551afd47a/stream.mp4
 #EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="acestream",Eurosport1
 http://127.0.0.1:2000/pid/5d330dc46d4e24a8db88ab9945c0595883bd280e/stream.mp4
+#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="acestream",Eurosport2
+http://127.0.0.1:2000/pid/4a7fe5b8b49cfd6a2e4f66713bc6a8c506c2159b/stream.mp4
