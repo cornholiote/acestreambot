@@ -44,6 +44,6 @@ http://127.0.0.1:2000/pid/4a7fe5b8b49cfd6a2e4f66713bc6a8c506c2159b/stream.mp4
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="acestream",Eurosport 2
 http://127.0.0.1:2000/pid/4a7fe5b8b49cfd6a2e4f66713bc6a8c506c2159b/stream.mp4
 #EXTINF:-1 tvg-id="# Vamos 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="acestream",# Vamos 1080
-http://127.0.0.1:2000/ace/getstream?id=2dbea1288c3bad4a8faab395249fb5e5edfde4b6
+http://127.0.0.1:2000/pid/2dbea1288c3bad4a8faab395249fb5e5edfde4b6/stream.mp4
 #EXTINF:-1 tvg-id="VAMOS SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="acestream",VAMOS SD
-http://127.0.0.1:2000/ace/getstream?id=0fdcd632dc776bc44ab2f474a6d079820d80132f
+http://127.0.0.1:2000/pid/0fdcd632dc776bc44ab2f474a6d079820d80132f/stream.mp4
