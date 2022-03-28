@@ -33,3 +33,5 @@ http://127.0.0.1:2000/pid/9a68bf410d49d4d140217cfd576cc99e927f1cd6/stream.mp4
 http://127.0.0.1:2000/pid/2b16391b15b98bd06576cfb7f7be400d3f78f2d1/stream.mp4
 #EXTINF:-1 tvg-id="Movistar Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",Movistar Deportes 3
 http://127.0.0.1:2000/pid/0c8935087510ee1c5117243a6cc46f9d6d795faf/stream.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="",
+http://127.0.0.1:2000/pid/2b16391b15b98bd06576cfb7f7be400d3f78f2d1/stream.mp4
