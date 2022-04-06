@@ -11,3 +11,6 @@ http://127.0.0.1:2000/pid/608ffde844a8e6f4f7c7fb9783aa3459c818b9f8/stream.mp4
 http://127.0.0.1:2000/pid/9b76d0739f87555ccd3f42fc8e548762a0b94c28/stream.mp4
 #EXTINF:-1 tvg-id="M. Liga de Campeones 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="acestream",M. Liga de Campeones 1080
 http://127.0.0.1:2000/pid/1bcc00e509dbc2e58ce11bd9df042fa75e265258/stream.mp4
+#EXTINF:-1 tvg-id="M. Liga de Campeones 1080" tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png" group-title="acestream",M. Liga de Campeones 1080
+http://127.0.0.1:2000/pid/aedf221240a0f8513d90b555bf1b6e5306ac1e76/stream.mp4
+
